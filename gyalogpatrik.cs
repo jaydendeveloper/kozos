@@ -4,9 +4,13 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace foprog
+namespace gyalogpatrik
 {
-    internal class Class1
+    internal class main
     {
+        public static double alapterulet(int a,int b)
+        {
+            return a*b;
+        }
     }
 }
