@@ -10,7 +10,11 @@ namespace foprog
     {
         static void Main(string[] args)
         {
-
+            Console.WriteLine("Kérem a szoba oldalait");
+            int a = int.Parse(Console.ReadLine());
+            int b = int.Parse(Console.ReadLine());
+            int c = int.Parse(Console.ReadLine());
+            int d = int.Parse(Console.ReadLine());
         }
     }
 }
