@@ -4,9 +4,13 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace foprog
+namespace csorelevente
 {
-    internal class Class1
+    internal class main
     {
+        public static double palast(int a, int b, int m)
+        {
+            return 2*m*(a+b);
+        }
     }
 }
